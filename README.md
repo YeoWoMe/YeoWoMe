@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YeoWoMe
-- 👀 I’m interested in ML/BI
+- 👀 I’m interested in 
 - 🌱 I’m currently learning applied statistics and data analysis
 - 💞️ I’m looking to collaborate on everything in the world! 
 - 📫 How to reach me yeowome@gmail.com/@yxhungw
