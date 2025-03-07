@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YeoWoMe
-- 👀 I’m interested in ML/Data Analysis
-- 🌱 I’m currently learning applied statistics and data analysis
+- 👋 Hi, I’m @YeoWoMe, YeonWoo Chung.
+- 👀 I’m interested in ML/DL/Generative models.
+- 🌱 I’m currently learning applied statistics and data analysis.
 - 💞️ I’m looking to collaborate on everything in the world! 
-- 📫 How to reach me yeowome@gmail.com
+- 📫 How to reach me yeowome@gmail.com/@yxhungw
 
 <!---
 YeoWoMe/YeoWoMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
