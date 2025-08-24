@@ -4,9 +4,9 @@
 - Applied Statistics (24.02 - now)
 
 - Kyonggi univ Undergraduate research student (2024.03 - now)
- - Statistical Learning (ML/DL)
+ 	- Statistical Learning (ML/DL)
 	- BioStatistics (Project: TMRCA inference using Neural Network)
- - interested in Genetic Data Analysis
+ 	- interested in Genetic Data Analysis
 
 - Expected to enter graduate school ✍️
 
