@@ -5,8 +5,8 @@
 
 - Kyonggi univ Undergraduate research student (2024.03 - now)
  	- Statistical Learning (ML/DL)
-	- BioStatistics (Project: TMRCA inference using Neural Network)
- 	- Interested in Genetic Data Analysis
+	- Biostatistics (Project: TMRCA inference using Neural Network, phylogenetic tree Inference)
+ 	- Interested in Genomic Data Analysis
 
 - Expected to enter graduate school ✍️
 
