@@ -6,7 +6,7 @@
 - Kyonggi univ Undergraduate research student (2024.03 - now)
  	- Statistical Learning (ML/DL)
 	- BioStatistics (Project: TMRCA inference using Neural Network)
- 	- interested in Genetic Data Analysis
+ 	- Interested in Genetic Data Analysis
 
 - Expected to enter graduate school ✍️
 
@@ -27,3 +27,9 @@
 - 컴퓨터활용능력 1급
 - ADSP
 - 빅데이터분석기사 필기
+
+### Portfolio
+
+
+### Contacts
+yowoo0303@kyonggi.ac.kr
