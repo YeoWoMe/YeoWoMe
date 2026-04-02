@@ -11,8 +11,6 @@
  	- Statistical Learning (ML/DL)
 	- Biostatistics (Project: TMRCA inference using Neural Network, phylogenetic tree Inference)
 
-- Expected to enter graduate school ✍️
-
 ### Stack
 - Python (ML / DL / Pytorch)
 - R 
