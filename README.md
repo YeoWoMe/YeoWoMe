@@ -1,6 +1,6 @@
 ### About ME 🌟
 
-- 🏫 Chung-ang univ M.S. course (26.03-now)
+- 🏫 Chung-Ang univ M.S. course (26.03-now)
   	- Statistics and Data sciendce
   	- Interested in Bayesian Inference, Biostatistics
 
